@@ -7,7 +7,7 @@
 #
 # ----------------------------------------------------------------------------- #
 #
-# Author: Inconnu - Modified by Thomas Goeury
+# Author: Unknown - Modified by Thomas Goeury
 # Date: 17 / 03 / 2015
 # Language: Python 2.7
 # 
